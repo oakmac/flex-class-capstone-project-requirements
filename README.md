@@ -74,7 +74,7 @@ get creative and build the web :-)
 
 - Pick a project idea that is easy to explain to a stranger.
   - This will help you on demo day as well as job interviews.
-  - Games are a great choice for a final project.
+  - Small games are a great choice for a final project.
 
 - Final projects are always stressful for students.
   - Keep your scope small and reach out for help early if you get stuck.
